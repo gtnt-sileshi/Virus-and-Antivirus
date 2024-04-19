@@ -5,7 +5,7 @@
 using namespace std;
 int main(){
 	system("color 1e");
-	cout<<"\n\n\n\n\n\n\n\n\n\t\t\t\t\tTRYING TO RE-ENABLE USB PORTS.";
+	cout<<"\n\n\n\n\n\n\n\n\n\t\t\t\t\tTRYING TO RE-ENABLE CMD.";
 	Sleep(1);
 	cout<<".";
 		Sleep(1000);
